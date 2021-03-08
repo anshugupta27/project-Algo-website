@@ -1,0 +1,104 @@
+.header{
+  background-color:white;
+  font-family: 'Akaya Telivigala', cursive;
+  height:70px;
+  padding-left:30px;
+  padding-top:20px;
+}
+.list{
+  float:left;
+    width: 33%;
+
+    height: 400px;
+}
+.image{
+  float:left;
+}
+.algolist{
+  padding-left:50px;
+  color:#0f4c75;
+  font-family: 'Redressed', cursive;
+}
+.algolist:hover{
+  color:black;
+}
+.body{
+  margin-left:0px;
+  padding-top:5px;
+  padding-left:0px;
+  height:650px;
+  background-color:#e8d3ff;
+
+
+}
+.LL{
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  height:50px;
+  width: 300px;
+  margin: 16px;
+  /* float :left; */
+
+
+}
+.LL:hover{
+  background: #e8eae6;
+  height:55px;
+  width:305px;
+
+  /* float :left; */
+
+
+}
+
+/* Testimonial Section */
+.feedback{
+  float:left;
+   width: 44%;
+
+   height:400px;
+   margin-left:0.25%;
+   margin-top:100px;
+}
+#testimonials {
+
+  /* background-color: #edf7fa; */
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+
+font-family: 'Redressed', cursive;
+color:#93329e;
+}
+
+.testimonial-image {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.names{
+  font-family: 'Redressed', cursive;
+}
+/* about me */
+.aboutme{
+  margin-right:-170px;
+  float: right;
+
+    height: 400px;
+    width: 33.5%;
+}
